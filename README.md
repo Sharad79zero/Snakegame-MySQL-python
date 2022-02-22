@@ -42,6 +42,10 @@ gameover screen
 
 example: data stored output
 
+# video example
+
+https://www.youtube.com/embed/Vwce2UZZEGw
+
 # requirements:
 
 1.)Python must be installed correctly and pip must be added to path in windows and linux
