@@ -45,10 +45,16 @@ example: data stored output
 # requirements:
 
 1.)python
+
 2.)pygame
+
 3.)mysql
+
 4.)mysql-connector-python
-5.)a database named 'snakegamescores' and \ table named 'scores' must be made
+
+5.)a database named 'snakegamescores' and 
+
+table named 'scores' must be made
 
 
 
