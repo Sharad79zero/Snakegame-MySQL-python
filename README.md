@@ -44,8 +44,7 @@ example: data stored output
 
 # requirements:
 
-1.)Python must be installed correctly and pip
-    must be added to path in windows and linux
+1.)Python must be installed correctly and pip must be added to path in windows and linux
 
 2.)Pygame must be installed
 
@@ -53,8 +52,7 @@ example: data stored output
 
 4.)MySQL-connector-python
 
-5.)A database named 'snakegamescores' and
-    table named 'scores' must be made manually.
+5.)A database named 'snakegamescores' and table named 'scores' must be made manually.
 
 
 
