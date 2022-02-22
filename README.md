@@ -41,3 +41,22 @@ gameover screen
 [![mysql-scores-stored.png](https://i.postimg.cc/MKHSrRvd/mysql-scores-stored.png)](https://postimg.cc/kD0z22Nb)
 
 example: data stored output
+
+# requirements:
+
+1.)python
+2.)pygame
+3.)mysql
+4.)mysql-connector-python
+5.)a database named 'snakegamescores' and \ table named 'scores' must be made
+
+
+
+
+
+
+
+
+
+
+
