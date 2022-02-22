@@ -44,17 +44,17 @@ example: data stored output
 
 # requirements:
 
-1.)python
+1.)Python must be installed correctly and pip
+    must be added to path in windows and linux
 
-2.)pygame
+2.)Pygame must be installed
 
-3.)mysql
+3.)MySQL must be installed 
 
-4.)mysql-connector-python
+4.)MySQL-connector-python
 
-5.)a database named 'snakegamescores' and 
-
-table named 'scores' must be made
+5.)A database named 'snakegamescores' and
+    table named 'scores' must be made manually.
 
 
 
