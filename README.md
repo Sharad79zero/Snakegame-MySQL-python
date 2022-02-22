@@ -1,5 +1,5 @@
 # Snakegame-MySQL-python
-Class 12 Computer Science Project. making a Python game and connecting it with MySQL to store scores. 
+Class 12 Computer Science Project. Making a Python game and connecting it with MySQL to store scores. 
 
 # features
   ========
@@ -54,13 +54,20 @@ example: data stored output
 
 5.)A database named 'snakegamescores' and table named 'scores' must be made manually.
 
+# Little About me and this Project
 
-
-
-
-
-
-
-
-
+I love playing games. I had started played games since i was 10. It was some
+old potato pc but it ran Grand Theft Auto: San Andreas perfectly.Since then i
+love games. Thats why i have taken computer science,i.e to make games and do
+advanced computers stuff. So when Monika Ma,am gave us project. Idea struck
+into my mind ,that idea was ...why not i learn and make a game. Then i gathered
+2 more of my friends and We thought we would make a decent open world
+fighting game but when we researched about making game in python. We got to
+know about pygame module. It already defined some helpful functions to make
+a decent game. So we read documentation of pygame, although didnt
+understand anything but we then learned making a simple snakegame from
+codewithharry youtubechannel. And the end product was really bad and my
+respect increased for game developers that how they make such good games
+but then they don’t get paid enough for it. People pirate their games! Which is
+really bad and sad.
 
