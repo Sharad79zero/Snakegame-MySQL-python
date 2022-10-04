@@ -1,7 +1,7 @@
 # Snakegame-MySQL-python
 Class 12 Computer Science Project. Making a Python game and connecting it with MySQL to store scores. 
 
-# features
+# Features
   ========
 
 1. Background sound from Erased Anime OP.
@@ -17,7 +17,7 @@ Class 12 Computer Science Project. Making a Python game and connecting it with M
 9. (new!)Random quotes(10+) related to snakes at menu
     screen.
 
-# images
+# Images
   ======
 
 [![menuscreenfull.png](https://i.postimg.cc/k4LrtYvZ/menuscreenfull.png)](https://postimg.cc/PpbVg4cz)
@@ -42,11 +42,11 @@ gameover screen
 
 example: data stored output
 
-# video example
+# Video Example
 
 https://www.youtube.com/embed/Vwce2UZZEGw
 
-# requirements:
+# Requirements:
 
 1.)Python must be installed correctly and pip must be added to path in windows and linux
 
@@ -63,12 +63,16 @@ https://www.youtube.com/embed/Vwce2UZZEGw
 I love playing games. I had started played games since i was 10. It was some
 old potato pc but it ran Grand Theft Auto: San Andreas perfectly.Since then i
 love games. Thats why i have taken computer science,i.e to make games and do
-advanced computers stuff. So when Monika Ma,am gave us project. Idea struck
+advanced computers stuff. 
+
+So when Monika Ma,am gave us project. Idea struck
 into my mind ,that idea was ...why not i learn and make a game. Then i gathered
 2 more of my friends and We thought we would make a decent open world
 fighting game but when we researched about making game in python. We got to
 know about pygame module. It already defined some helpful functions to make
-a decent game. So we read documentation of pygame, although didnt
+a decent game. 
+
+So we read documentation of pygame, although didnt
 understand anything but we then learned making a simple snakegame from
 codewithharry youtubechannel. And the end product was really bad and my
 respect increased for game developers that how they make such good games
