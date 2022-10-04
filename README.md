@@ -1,5 +1,5 @@
 # Snakegame-MySQL-python
-Class 12 Computer Science Project. Making a Python game and connecting it with MySQL to store scores. 
+Class 12 Computer Science Project. Making a Python game and connecting it with MySQL database to store scores. 
 
 # Features
   ========
@@ -78,4 +78,3 @@ codewithharry youtubechannel. And the end product was really bad and my
 respect increased for game developers that how they make such good games
 but then they don’t get paid enough for it. People pirate their games! Which is
 really bad and sad.
-
